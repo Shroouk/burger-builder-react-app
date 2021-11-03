@@ -1,0 +1,26 @@
+.button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.btn:disabled{
+    cursor: not-allowed;
+}
+.button:first-of-type {
+    margin-left: 0;
+}
+
+.btn-success{
+    background: RGB(133, 163 , 53) !important;
+}
+
+.btn-danger{
+    background: RGB(244, 67 , 53) !important;
+}

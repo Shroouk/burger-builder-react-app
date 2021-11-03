@@ -1,0 +1,10 @@
+.burger-container{
+    width: 50%;
+    margin: auto;
+}
+
+@media (max-width:767px) {
+    .burger-container{
+        width: 100%;
+    }    
+}

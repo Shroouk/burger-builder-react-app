@@ -1,0 +1,20 @@
+.form-control:focus {
+    border-color: #55c2bb !important;
+    box-shadow: 0 0 0 0.2rem #55c2bb45 !important;
+}
+.input-element{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.invalid-input {
+    border-color: #dc3545 !important;
+}
+.invalid-input:focus {
+    border-color: #dc3545 !important;
+    box-shadow: 0 0 0 0.2rem #dc354540 !important;
+}
+.validationError {
+    color: #dc3545;
+    margin: 5px 0;
+}
