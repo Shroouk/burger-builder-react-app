@@ -3,7 +3,7 @@
 React app built while completing "React - The Complete Guide" course (by Maximilian Schwarzmüller)
 
 - Burger Builder is an application scripted in `React` and deployed on `Firebase` .
-- he application uses all the new features introduced in EcmaScript 6.
+- The application uses all the new features introduced in EcmaScript 6.
 - Users can order burger by choosing ingredients.
 - The application is a single page application with proper components and is Mobile Responsive.
 
